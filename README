@@ -1,0 +1,19 @@
+Dropin Warmups at RC Fall 1 2016
+
+18 Aug. Plusone
+
+24 Aug. Swap and rank
+Swap: Write a function that takes two lists. L1 contains arbitrary data, L2 contains pairs of numbers. For each pair in L2, swap the corresponding elements in L1 and return the result at the end. For instance -
+swap(['a', 'b', 'c'], [(0,2), [1,2)]) = ['c', 'a', 'b']
+
+Rank: Write a function that takes a file name and a character and print the lines in the file ordered by the number of times the character appears in each line.
+rank('Foo.txt', 'e')
+Input:
+Hey,
+Hello world!
+How's everyone doing?
+
+Output:
+How's everyone doing?
+Hey,
+Hello world!
