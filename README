@@ -17,3 +17,6 @@ Output:
 How's everyone doing?
 Hey,
 Hello world!
+
+31 Aug. FizzBuzz
+Variations of FizzBuzz. I tried recursive and template meta-programming version.
