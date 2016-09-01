@@ -20,3 +20,8 @@ Hello world!
 
 31 Aug. FizzBuzz
 Variations of FizzBuzz. I tried recursive and template meta-programming version.
+
+1 Sep. Intersperse
+Write a function that takes a list of lists and intersperses their elements, e.g.
+
+intersperse([[1,2,3], [4,5,6], [7,8,9]]) => [1,4,7,2,5,8,3,6,9]
